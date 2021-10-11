@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "674393915780",
+    "project_id": "bedpatient",
+    "storage_bucket": "bedpatient.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674393915780:android:0a12db7571f74e79d41dd1",
+        "android_client_info": {
+          "package_name": "com.example.bedpatient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674393915780-pv14ophkqk29oa46assn8k655vnjgiki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDddoDbrfDt7pNF0h1TXJbjf0cXlcOUFEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674393915780-pv14ophkqk29oa46assn8k655vnjgiki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
